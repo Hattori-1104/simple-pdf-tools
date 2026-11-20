@@ -1,0 +1,12 @@
+node_modules
+dist
+
+# Editor directories and files
+.vscode/*
+!.vscode/settings.json
+!.vscode/extensions.json
+
+# dotenv environment variable files
+.env
+.env.*
+!.env.example
